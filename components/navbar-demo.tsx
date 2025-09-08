@@ -28,7 +28,7 @@ function FloatingNavbar() {
   ]
   const pastEvents = [
     { id: "cybertea-1", label: "CyberTEA 1.0", href: "https://cybertea.vercel.app/" },
-    { id: "cybertea-2", label: "CyberTEA 2.0", href: "/past/2" },
+    { id: "cybertea-2", label: "CyberTEA 2.0", href: "https://cybertea2-0.vercel.app/" },
   ]
   const [openPastDesktop, setOpenPastDesktop] = useState(false)
 
